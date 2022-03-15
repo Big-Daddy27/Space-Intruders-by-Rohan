@@ -4,9 +4,9 @@
   The game is entirely coded on Python
     : Used pygame library
 # Controls of the game:
-  Left arrow key - Moves your spaceship to the left
-  Right arrow key - Moves your spaceship to the right
-  Spacebar - Fires bullet
+    * Left arrow key - Moves your spaceship to the left
+    * Right arrow key - Moves your spaceship to the right
+    * Spacebar - Fires bullet
 # Cheatcode :
   * Press "R" (My initial) to get a bonus score of +5
 # Score:
